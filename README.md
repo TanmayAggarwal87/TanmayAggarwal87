@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a web developer with a growing focus on backend development. I’m currently exploring the ins and outs of server-side technologies, building APIs, and database management. My projects include a mix of frontend and backend development as I dive deeper into creating full-stack applications. Excited to learn, collaborate, and build more robust, scalable web solutions!<br><br>Feel free to check out my projects and connect!
 
-
+<div class="tenor-gif-embed" data-postid="12793542" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/homer-any-key-wheres-the-key-gif-12793542">Homer Any GIF</a>from <a href="https://tenor.com/search/homer-gifs">Homer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanmay-aggarwal-2aa95632a) 
 
