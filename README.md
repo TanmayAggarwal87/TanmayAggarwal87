@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a web developer with a growing focus on backend development. I’m currently exploring the ins and outs of server-side technologies, building APIs, and database management. My projects include a mix of frontend and backend development as I dive deeper into creating full-stack applications. Excited to learn, collaborate, and build more robust, scalable web solutions!<br><br>Feel free to check out my projects and connect!
 
-![homerGIF](https://github.com/user-attachments/assets/0bd72231-105d-401d-8cf7-4b3458e63030 width="36")
+![homerGIF](https://github.com/user-attachments/assets/0bd72231-105d-401d-8cf7-4b3458e63030=150x150)
 
 
 ## 🌐 Socials:
