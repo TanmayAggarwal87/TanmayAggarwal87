@@ -1,6 +1,5 @@
-# 💫 About Me:
 
-## 👋 Hey, I'm Tanmay!
+# Hey, I'm Tanmay!
 I'm a full-stack developer with hands-on experience in web and mobile development. Currently diving deeper into full-stack architectures, advanced backend patterns, and building real-time, scalable applications using Next.js, React Native, and modern backend stacks.
 
 Always pushing boundaries and building stuff that actually works in the real world.
