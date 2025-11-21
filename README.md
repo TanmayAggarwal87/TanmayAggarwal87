@@ -64,12 +64,10 @@
 </div>
 <br>
 <h1 align="center">My Github Stats:</h1>
-<div>
-
-  <img align="right" src="https://nirzak-streak-stats.vercel.app/?user=TanmayAggarwal87&theme=dark&hide_border=false" />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=TanmayAggarwal87&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-
-
-</div>
+<table>
+  <tr>
+    <td><img width="450" src="https://github-readme-stats.vercel.app/api?username=TanmayAggarwal87&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /></td>
+    <td><img width="450" src="https://nirzak-streak-stats.vercel.app/?user=TanmayAggarwal87&theme=dark&hide_border=true" /></td>
+  </tr>
+</table>
 
