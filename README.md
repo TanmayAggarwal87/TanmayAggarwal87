@@ -73,8 +73,8 @@
 <h1 align="center">My Github Stats:</h1>
 <table>
   <tr>
-    <td><img width="450" src="https://github-readme-stats.vercel.app/api?username=TanmayAggarwal87&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /></td>
-    <td><img width="450" src="https://nirzak-streak-stats.vercel.app/?user=TanmayAggarwal87&theme=dark&hide_border=true" /></td>
+    <td><img width="450" src="https://github-readme-stats.shion.dev/api?username=TanmayAggarwal87&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img width="450" src="https://streak-stats.demolab.com/?user=TanmayAggarwal87&theme=dark&hide_border=false" /></td>
   </tr>
 </table>
 
